@@ -1,3 +1,6 @@
+http://www.wolfteck.com/2019/03/02/packaging_rtl88x2bu_for_synology_nas/
+
+
 # Deprecation notice. This repo is deprecated and a newer version of the driver is available at https://github.com/cilynx/rtl88x2bu
 
 
